@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image](https://github.com/hassanmohamed13122001/HR-Dashboard-PowerBi-MySQL/issues/1#issue-2592718903)
+![image](images/Screenshot 2024-10-16 212540.png)
 
 ## Data Used
 
